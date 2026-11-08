@@ -1,5 +1,7 @@
 # Entro o no?
 
+[![tests](https://github.com/PierpaoloGonnella/entro-o-no/actions/workflows/tests.yml/badge.svg)](https://github.com/PierpaoloGonnella/entro-o-no/actions/workflows/tests.yml)
+
 Semaforo per il SUP sulla costa ionica, e su qualunque altro punto di costa.
 
 Non risponde alla domanda "quanto soffia", che sanno già tutte le app meteo.
